@@ -1,4 +1,4 @@
-# Профильное задание в команду VK Маркет
+# Shopping cart
 
 [Результат проекта](https://main--coruscating-jalebi-e14ee7.netlify.app/)
 
